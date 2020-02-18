@@ -1,0 +1,21 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "Dynamic Notes System",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "notes"
+  ],
+  "author": "Ahmed Sayed",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "moment": "^2.24.0",
+    "nodemon": "^2.0.2",
+    "validator": "^12.2.0",
+    "yargs": "^15.1.0"
+  }
+}
